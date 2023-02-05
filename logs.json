@@ -1,0 +1,7 @@
+{"target": 0.0911508999793176, "params": {"kernel_size": 8.923418089348907, "learning_rate": 0.7231212485077365}, "datetime": {"datetime": "2020-05-22 20:23:03", "elapsed": 0.0, "delta": 0.0}}
+{"target": 0.07631647185896398, "params": {"kernel_size": 1.0021731215295528, "learning_rate": 0.30930924690552136}, "datetime": {"datetime": "2020-05-22 20:23:06", "elapsed": 2.749933, "delta": 2.749933}}
+{"target": 0.08447530272671835, "params": {"kernel_size": 19.95389285022299, "learning_rate": 0.0347240564075188}, "datetime": {"datetime": "2020-05-22 20:23:09", "elapsed": 5.911303, "delta": 3.16137}}
+{"target": 0.09181782873782865, "params": {"kernel_size": 19.831753093358486, "learning_rate": 0.9993558093052105}, "datetime": {"datetime": "2020-05-22 20:23:12", "elapsed": 8.991, "delta": 3.079697}}
+{"target": 0.0867530482879828, "params": {"kernel_size": 13.890167598337305, "learning_rate": 0.9989927755305493}, "datetime": {"datetime": "2020-05-22 20:23:15", "elapsed": 11.821472, "delta": 2.830472}}
+{"target": 0.09038976515420652, "params": {"kernel_size": 4.814087807254182, "learning_rate": 0.9983744136758228}, "datetime": {"datetime": "2020-05-22 20:23:19", "elapsed": 15.325952, "delta": 3.50448}}
+{"target": 0.09429138291090049, "params": {"kernel_size": 8.19822783061332, "learning_rate": 0.998573466455772}, "datetime": {"datetime": "2020-05-22 20:23:22", "elapsed": 18.382425, "delta": 3.056473}}
