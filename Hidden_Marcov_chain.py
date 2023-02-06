@@ -109,7 +109,7 @@ def prediction_HMM_Normal(X=None, real_values=None, model=None):
 # %%
 
 
-'''
+
 
 path = '/home/francesco/Machine_learning/PyTorch/liverpool-ion-switching'
 os.chdir(path)
@@ -187,7 +187,7 @@ for i, (B,f1) in enumerate(zip(block, fs)):
 
 
 
-# %%
+
 
         
 
@@ -286,12 +286,7 @@ print(a, f)
 # %%
 print(y_pred)
 
-'''
 
-
-# %%
-
-'''
 n_sub = 2
 
 lim  = np.arange(mus.min(), mus.max()+0.05, sep/n_sub)
